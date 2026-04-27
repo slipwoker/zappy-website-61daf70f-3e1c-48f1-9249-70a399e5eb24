@@ -1,47 +1,72 @@
-# Business — Generative Engine Optimization Map
+# Watchful Eye - Retail Security — Generative Engine Optimization Map
+
+> A professional retail security consulting firm offering a comprehensive range of security services including retail security management, security consulting, CCTV surveillance and footage retrieval, employee background screening, security procedure development, and incident/event management. The business positions itself as a full-service security solutions provider for the retail sector.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://watchful-eye-retail-security.zappy5.app
 פתרונות ביטחון קמעונאי מקיפים: ניהול אירועים, מניעת גניבות, ייעוץ ביטחוני ומצלמות אבטחה. הגנה מלאה על הרשת שלכם מהיום.
 
 ### שירותים
-https://example.com/services
+https://watchful-eye-retail-security.zappy5.app/services
 מסינון עובדים ומבדקי נאמנות ועד תכנון מצלמות אבטחה וניהול אירועים — גלו את מגוון הפתרונות המקצועיים שלנו לרשתות קמעונאיות. בדקו עכשיו.
 
 ### אודות
-https://example.com/about
+https://watchful-eye-retail-security.zappy5.app/about
 צוות מומחים עם ניסיון רב בניהול ביטחון קמעונאי ויעוץ ביטחוני לרשתות. גלו מדוע עסקים מובילים בוחרים ב-Watchful Eye כשותף האבטחה שלהם.
 
 ### צור קשר
-https://example.com/contact
+https://watchful-eye-retail-security.zappy5.app/contact
 רוצים לשפר את האבטחה ברשת שלכם? צרו קשר עכשיו לייעוץ ביטחוני מקצועי, ניהול אירועים ומניעת גניבות — נחזור אליכם במהירות עם פתרון מותאם אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://watchful-eye-retail-security.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://watchful-eye-retail-security.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://watchful-eye-retail-security.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Watchful Eye - Retail Security
+A professional retail security consulting firm offering a comprehensive range of security services including retail security management, security consulting, CCTV surveillance and footage retrieval, employee background screening, security procedure development, and incident/event management. The business positions itself as a full-service security solutions provider for the retail sector.
+
+## Services/Products
+- ניהול ביטחון קמעונאי
+- יעוץ ביטחוני
+- צפייה ושחזור מצלמות
+- בדיקה וסינון עובדים
+- בניית נהלי ביטחון
+- ניהול אירועים
+
+## Target Audience
+- בעלי רשתות קמעונאיות
+- מנהלי קניונים ומרכזי קניות
+- מומחי מניעת אובדן
+- בעלי חנויות יוקרה
+- יועצי אבטחה קמעונאית
+- מפעלים
+- משווקים
+- מוסדות ממשלתיים
+
+## Industry
+ביטחון ואבטחה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://watchful-eye-retail-security.zappy5.app/sitemap.xml
+- **Robots.txt**: https://watchful-eye-retail-security.zappy5.app/robots.txt
