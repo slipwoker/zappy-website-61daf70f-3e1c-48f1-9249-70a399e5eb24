@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פתרונות ביטחון קמעונאי מקיפים: ניהול אירועים, מניעת גניבות, ייעוץ ביטחוני ומצלמות אבטחה. הגנה מלאה על הרשת שלכם מהיום.
+
+### שירותים
+https://example.com/services
+מסינון עובדים ומבדקי נאמנות ועד תכנון מצלמות אבטחה וניהול אירועים — גלו את מגוון הפתרונות המקצועיים שלנו לרשתות קמעונאיות. בדקו עכשיו.
+
+### אודות
+https://example.com/about
+צוות מומחים עם ניסיון רב בניהול ביטחון קמעונאי ויעוץ ביטחוני לרשתות. גלו מדוע עסקים מובילים בוחרים ב-Watchful Eye כשותף האבטחה שלהם.
+
+### צור קשר
+https://example.com/contact
+רוצים לשפר את האבטחה ברשת שלכם? צרו קשר עכשיו לייעוץ ביטחוני מקצועי, ניהול אירועים ומניעת גניבות — נחזור אליכם במהירות עם פתרון מותאם אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
