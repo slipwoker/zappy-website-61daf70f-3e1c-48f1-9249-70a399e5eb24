@@ -2723,14 +2723,13 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   text-align: right;
 }
 
-/* Eyebrow Label */
 .index-hero-section .index-hero-label {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 0.9rem;
   font-weight: 700;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #4A90D9;
+  color: #ffffff;
   background: rgba(74,144,217,0.12);
   border: 1px solid rgba(74,144,217,0.3);
   border-radius: 4px;
