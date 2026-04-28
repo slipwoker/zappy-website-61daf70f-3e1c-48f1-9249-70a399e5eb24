@@ -1,6 +1,4 @@
-# Watchful Eye - Retail Security — Generative Engine Optimization Map
-
-> A professional retail security consulting firm offering a comprehensive range of security services including retail security management, security consulting, CCTV surveillance and footage retrieval, employee background screening, security procedure development, and incident/event management. The business positions itself as a full-service security solutions provider for the retail sector.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,30 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Watchful Eye - Retail Security
-A professional retail security consulting firm offering a comprehensive range of security services including retail security management, security consulting, CCTV surveillance and footage retrieval, employee background screening, security procedure development, and incident/event management. The business positions itself as a full-service security solutions provider for the retail sector.
-
-## Services/Products
-- ניהול ביטחון קמעונאי
-- יעוץ ביטחוני
-- צפייה ושחזור מצלמות
-- בדיקה וסינון עובדים
-- בניית נהלי ביטחון
-- ניהול אירועים
-
-## Target Audience
-- בעלי רשתות קמעונאיות
-- מנהלי קניונים ומרכזי קניות
-- מומחי מניעת אובדן
-- בעלי חנויות יוקרה
-- יועצי אבטחה קמעונאית
-- מפעלים
-- משווקים
-- מוסדות ממשלתיים
-
-## Industry
-ביטחון ואבטחה
-
+## About Business
 ---
 
 # Additional Resources
