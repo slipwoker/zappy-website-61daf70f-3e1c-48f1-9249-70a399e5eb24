@@ -2743,10 +2743,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   left: auto;
 }
 
-/* Headline H1 */
 .index-hero-section .index-hero-h1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 2.2rem !important;
   font-weight: 700;
   line-height: 1.15;
   letter-spacing: -0.02em;
@@ -2947,8 +2946,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
    ============================================================ */
 @media (min-width: 769px) {
   .index-hero-section .index-hero-h1 {
-    font-size: 3.5rem;
-  }
+  font-size: 2.8rem !important;
+}
 
   .index-hero-section .index-hero-container {
     padding-top: 160px;
