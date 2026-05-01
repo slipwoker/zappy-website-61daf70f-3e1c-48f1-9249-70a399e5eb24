@@ -7800,6 +7800,30 @@ body.accessibility-widget-visible ._access-menu {
     left: -80px;
   }
 }
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__content {
+  align-items: center !important;
+}
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__badge {
+  align-self: center !important;
+}
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__stats {
+  justify-content: center !important;
+}
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__cta-group {
+  justify-content: center !important;
+}
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__trust {
+  justify-content: center !important;
+}
+
+#ai-section-1777634435925-9veu1u0 .hero-watchful__stat {
+  align-items: center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
